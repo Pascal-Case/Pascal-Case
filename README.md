@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=JaeJun%20Yang&desc=Backend%20Developer&descAlign=40&descAlignY=30&fontSize=90&fontAlign=60&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=JaeJun%20Yang&desc=Backend%20Developer&descAlign=40&descAlignY=30&fontSize=90&fontAlign=50&theme=tokyonight)
 
 <!--Tech-->
 <h3 align="center">✨ Tech Stack ✨</h3>
